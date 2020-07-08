@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 5);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -117,13 +117,18 @@ module.exports = require("next/head");
 
 /***/ }),
 /* 4 */
+/***/ (function(module, exports) {
+
+module.exports = require("styled-components");
+
+/***/ }),
+/* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(15);
+module.exports = __webpack_require__(16);
 
 
 /***/ }),
-/* 5 */,
 /* 6 */,
 /* 7 */,
 /* 8 */,
@@ -133,7 +138,8 @@ module.exports = __webpack_require__(15);
 /* 12 */,
 /* 13 */,
 /* 14 */,
-/* 15 */
+/* 15 */,
+/* 16 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -204,6 +210,10 @@ var Meta_Meta = function Meta() {
 };
 
 /* harmony default export */ var components_Meta = (Meta_Meta);
+// EXTERNAL MODULE: external "styled-components"
+var external_styled_components_ = __webpack_require__(4);
+var external_styled_components_default = /*#__PURE__*/__webpack_require__.n(external_styled_components_);
+
 // CONCATENATED MODULE: ./components/Page.js
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
@@ -227,6 +237,13 @@ function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || func
 
 
 
+var MyButton = external_styled_components_default.a.button.withConfig({
+  displayName: "Page__MyButton",
+  componentId: "sc-4u7a64-0"
+})(["background:red;font-size:", ";.poop{font-size:100px}"], function (props) {
+  return props.huge ? '100px' : '50px';
+});
+
 var Page_Page =
 /*#__PURE__*/
 function (_Component) {
@@ -241,7 +258,13 @@ function (_Component) {
   _createClass(Page, [{
     key: "render",
     value: function render() {
-      return external_react_default.a.createElement("div", null, external_react_default.a.createElement(components_Meta, null), external_react_default.a.createElement(components_Header, null), this.props.children);
+      return external_react_default.a.createElement("div", null, external_react_default.a.createElement(components_Meta, null), external_react_default.a.createElement(components_Header, null), external_react_default.a.createElement(MyButton, {
+        huge: true
+      }, "Click Me", external_react_default.a.createElement("span", {
+        className: "poop"
+      }, "\uD83D\uDCA9")), external_react_default.a.createElement(MyButton, null, "Click Me", external_react_default.a.createElement("span", {
+        className: "poop"
+      }, "\uD83D\uDCA9")), this.props.children);
     }
   }]);
 

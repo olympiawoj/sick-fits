@@ -1,1594 +1,1594 @@
 {
-  "react": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/react": [
     {
       "id": 0,
       "name": "./node_modules/react/index.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/_core": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/_core": [
     {
       "id": 1,
       "name": "./node_modules/core-js/library/modules/_core.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_export": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/prop-types": [
     {
       "id": 2,
-      "name": "./node_modules/core-js/library/modules/_export.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/prop-types/index.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_global": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_export": [
     {
       "id": 3,
-      "name": "./node_modules/core-js/library/modules/_global.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_export.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/interopRequireDefault": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_global": [
     {
       "id": 4,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_global.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_wks": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/interopRequireDefault": [
     {
       "id": 5,
-      "name": "./node_modules/core-js/library/modules/_wks.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_is-object": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_wks": [
     {
       "id": 6,
-      "name": "./node_modules/core-js/library/modules/_is-object.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_wks.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/classCallCheck": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_is-object": [
     {
       "id": 7,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_is-object.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/createClass": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/classCallCheck": [
     {
       "id": 8,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/createClass.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-dp": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/createClass": [
     {
       "id": 9,
-      "name": "./node_modules/core-js/library/modules/_object-dp.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/createClass.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_an-object": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-dp": [
     {
       "id": 10,
-      "name": "./node_modules/core-js/library/modules/_an-object.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-dp.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_descriptors": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_an-object": [
     {
       "id": 11,
-      "name": "./node_modules/core-js/library/modules/_descriptors.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_an-object.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_ctx": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_descriptors": [
     {
       "id": 12,
-      "name": "./node_modules/core-js/library/modules/_ctx.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_descriptors.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./defineProperty": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_ctx": [
     {
       "id": 13,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/defineProperty.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_ctx.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_fails": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/defineProperty": [
     {
       "id": 14,
-      "name": "./node_modules/core-js/library/modules/_fails.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/defineProperty.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_hide": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_fails": [
     {
       "id": 15,
-      "name": "./node_modules/core-js/library/modules/_hide.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_fails.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/possibleConstructorReturn": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_hide": [
     {
       "id": 16,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_hide.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/getPrototypeOf": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/possibleConstructorReturn": [
     {
       "id": 17,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/inherits": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/getPrototypeOf": [
     {
       "id": 18,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/inherits.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/interopRequireWildcard": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/inherits": [
     {
       "id": 19,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/inherits.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_to-iobject": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/interopRequireWildcard": [
     {
       "id": 20,
-      "name": "./node_modules/core-js/library/modules/_to-iobject.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_has": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_to-iobject": [
     {
       "id": 21,
-      "name": "./node_modules/core-js/library/modules/_has.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_to-iobject.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_a-function": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_has": [
     {
       "id": 22,
-      "name": "./node_modules/core-js/library/modules/_a-function.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_has.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../lib/utils": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_a-function": [
     {
       "id": 23,
-      "name": "./node_modules/next/dist/lib/utils.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_a-function.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_to-object": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/lib/utils": [
     {
       "id": 24,
-      "name": "./node_modules/core-js/library/modules/_to-object.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/next/dist/lib/utils.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/core-js/promise": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_to-object": [
     {
       "id": 25,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/promise.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_to-object.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/es6.string.iterator": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/core-js/promise": [
     {
       "id": 26,
-      "name": "./node_modules/core-js/library/modules/es6.string.iterator.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/promise.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_iterators": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/es6.string.iterator": [
     {
       "id": 27,
-      "name": "./node_modules/core-js/library/modules/_iterators.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.string.iterator.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "prop-types": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_iterators": [
     {
       "id": 28,
-      "name": "./node_modules/prop-types/index.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_iterators.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_cof": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_cof": [
     {
       "id": 29,
       "name": "./node_modules/core-js/library/modules/_cof.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_property-desc": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_property-desc": [
     {
       "id": 30,
       "name": "./node_modules/core-js/library/modules/_property-desc.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/objectSpread": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/objectSpread": [
     {
       "id": 31,
       "name": "./node_modules/@babel/runtime-corejs2/helpers/objectSpread.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_library": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_library": [
     {
       "id": 32,
       "name": "./node_modules/core-js/library/modules/_library.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_set-to-string-tag": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_set-to-string-tag": [
     {
       "id": 33,
       "name": "./node_modules/core-js/library/modules/_set-to-string-tag.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-keys": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-keys": [
     {
       "id": 34,
       "name": "./node_modules/core-js/library/modules/_object-keys.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-create": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-create": [
     {
       "id": 35,
       "name": "./node_modules/core-js/library/modules/_object-create.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/web.dom.iterable": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/web.dom.iterable": [
     {
       "id": 36,
       "name": "./node_modules/core-js/library/modules/web.dom.iterable.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_for-of": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_for-of": [
     {
       "id": 37,
       "name": "./node_modules/core-js/library/modules/_for-of.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-pie": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-pie": [
     {
       "id": 38,
       "name": "./node_modules/core-js/library/modules/_object-pie.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/object/define-property": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/object/define-property": [
     {
       "id": 39,
       "name": "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_uid": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_uid": [
     {
       "id": 40,
       "name": "./node_modules/core-js/library/modules/_uid.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_to-length": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_to-length": [
     {
       "id": 41,
       "name": "./node_modules/core-js/library/modules/_to-length.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/regenerator": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/regenerator": [
     {
       "id": 42,
       "name": "./node_modules/@babel/runtime-corejs2/regenerator/index.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/asyncToGenerator": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/asyncToGenerator": [
     {
       "id": 43,
       "name": "./node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_classof": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_classof": [
     {
       "id": 44,
       "name": "./node_modules/core-js/library/modules/_classof.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../lib/router": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/lib/router": [
     {
       "id": 45,
       "name": "./node_modules/next/dist/lib/router/index.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../helpers/typeof": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/helpers/typeof": [
     {
       "id": 46,
       "name": "./node_modules/@babel/runtime-corejs2/helpers/typeof.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/core-js/set": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/core-js/set": [
     {
       "id": 47,
       "name": "./node_modules/@babel/runtime-corejs2/core-js/set.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/core-js/object/assign": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/core-js/object/assign": [
     {
       "id": 48,
       "name": "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/assertThisInitialized": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/assertThisInitialized": [
     {
       "id": 49,
       "name": "./node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_iobject": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/hoist-non-react-statics": [
     {
       "id": 50,
-      "name": "./node_modules/core-js/library/modules/_iobject.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_defined": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_iobject": [
     {
       "id": 51,
-      "name": "./node_modules/core-js/library/modules/_defined.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_iobject.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-gopd": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_defined": [
     {
       "id": 52,
-      "name": "./node_modules/core-js/library/modules/_object-gopd.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_defined.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_to-primitive": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-gopd": [
     {
       "id": 53,
-      "name": "./node_modules/core-js/library/modules/_to-primitive.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-gopd.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_dom-create": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_to-primitive": [
     {
       "id": 54,
-      "name": "./node_modules/core-js/library/modules/_dom-create.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_to-primitive.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-sap": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_dom-create": [
     {
       "id": 55,
-      "name": "./node_modules/core-js/library/modules/_object-sap.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_dom-create.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_meta": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-sap": [
     {
       "id": 56,
-      "name": "./node_modules/core-js/library/modules/_meta.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-sap.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_shared": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_meta": [
     {
       "id": 57,
-      "name": "./node_modules/core-js/library/modules/_shared.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_meta.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_wks-ext": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_shared": [
     {
       "id": 58,
-      "name": "./node_modules/core-js/library/modules/_wks-ext.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_shared.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_wks-define": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_wks-ext": [
     {
       "id": 59,
-      "name": "./node_modules/core-js/library/modules/_wks-define.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_wks-ext.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_to-integer": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_wks-define": [
     {
       "id": 60,
-      "name": "./node_modules/core-js/library/modules/_to-integer.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_wks-define.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_shared-key": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_to-integer": [
     {
       "id": 61,
-      "name": "./node_modules/core-js/library/modules/_shared-key.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_to-integer.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_enum-bug-keys": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_shared-key": [
     {
       "id": 62,
-      "name": "./node_modules/core-js/library/modules/_enum-bug-keys.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_shared-key.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-gops": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_enum-bug-keys": [
     {
       "id": 63,
-      "name": "./node_modules/core-js/library/modules/_object-gops.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_enum-bug-keys.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_is-array": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-gops": [
     {
       "id": 64,
-      "name": "./node_modules/core-js/library/modules/_is-array.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-gops.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/es6.object.to-string": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_is-array": [
     {
       "id": 65,
-      "name": "./node_modules/core-js/library/modules/es6.object.to-string.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_is-array.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_iter-define": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/es6.object.to-string": [
     {
       "id": 66,
-      "name": "./node_modules/core-js/library/modules/_iter-define.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.object.to-string.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_an-instance": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_iter-define": [
     {
       "id": 67,
-      "name": "./node_modules/core-js/library/modules/_an-instance.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_iter-define.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./core.get-iterator-method": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_an-instance": [
     {
       "id": 68,
-      "name": "./node_modules/core-js/library/modules/core.get-iterator-method.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_an-instance.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_new-promise-capability": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core.get-iterator-method": [
     {
       "id": 69,
-      "name": "./node_modules/core-js/library/modules/_new-promise-capability.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/core.get-iterator-method.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_redefine-all": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_new-promise-capability": [
     {
       "id": 70,
-      "name": "./node_modules/core-js/library/modules/_redefine-all.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_new-promise-capability.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/slicedToArray": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_redefine-all": [
     {
       "id": 71,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_redefine-all.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/core-js/array/is-array": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/slicedToArray": [
     {
       "id": 72,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../lib/EventEmitter": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/core-js/array/is-array": [
     {
       "id": 73,
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/lib/EventEmitter": [
+    {
+      "id": 74,
       "name": "./node_modules/next/dist/lib/EventEmitter.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/object/get-own-property-descriptor": [
-    {
-      "id": 76,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "./_ie8-dom-define": [
-    {
-      "id": 77,
-      "name": "./node_modules/core-js/library/modules/_ie8-dom-define.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "../../modules/es6.symbol": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/object/get-own-property-descriptor": [
     {
       "id": 78,
-      "name": "./node_modules/core-js/library/modules/es6.symbol.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_redefine": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_ie8-dom-define": [
     {
       "id": 79,
-      "name": "./node_modules/core-js/library/modules/_redefine.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_ie8-dom-define.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-keys-internal": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.symbol": [
     {
       "id": 80,
-      "name": "./node_modules/core-js/library/modules/_object-keys-internal.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.symbol.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_html": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_redefine": [
     {
       "id": 81,
-      "name": "./node_modules/core-js/library/modules/_html.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_redefine.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-gopn": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-keys-internal": [
     {
       "id": 82,
-      "name": "./node_modules/core-js/library/modules/_object-gopn.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-keys-internal.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/object/keys": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_html": [
     {
       "id": 83,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/keys.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_html.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-gpo": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-gopn": [
     {
       "id": 84,
-      "name": "./node_modules/core-js/library/modules/_object-gpo.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-gopn.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_iter-step": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/object/keys": [
     {
       "id": 85,
-      "name": "./node_modules/core-js/library/modules/_iter-step.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/keys.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_iter-call": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-gpo": [
     {
       "id": 86,
-      "name": "./node_modules/core-js/library/modules/_iter-call.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-gpo.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_is-array-iter": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_iter-step": [
     {
       "id": 87,
-      "name": "./node_modules/core-js/library/modules/_is-array-iter.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_iter-step.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_species-constructor": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_iter-call": [
     {
       "id": 88,
-      "name": "./node_modules/core-js/library/modules/_species-constructor.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_iter-call.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_task": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_is-array-iter": [
     {
       "id": 89,
-      "name": "./node_modules/core-js/library/modules/_task.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_is-array-iter.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_invoke": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_species-constructor": [
     {
       "id": 90,
-      "name": "./node_modules/core-js/library/modules/_invoke.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_species-constructor.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_perform": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_task": [
     {
       "id": 91,
-      "name": "./node_modules/core-js/library/modules/_perform.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_task.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_promise-resolve": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_invoke": [
     {
       "id": 92,
-      "name": "./node_modules/core-js/library/modules/_promise-resolve.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_invoke.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_set-species": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_perform": [
     {
       "id": 93,
-      "name": "./node_modules/core-js/library/modules/_set-species.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_perform.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_iter-detect": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_promise-resolve": [
     {
       "id": 94,
-      "name": "./node_modules/core-js/library/modules/_iter-detect.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_promise-resolve.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "object-assign": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_set-species": [
     {
       "id": 95,
-      "name": "./node_modules/object-assign/index.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_set-species.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./setPrototypeOf": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_iter-detect": [
     {
       "id": 96,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_iter-detect.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/object/set-prototype-of": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/object-assign": [
     {
       "id": 97,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/object-assign/index.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_validate-collection": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/setPrototypeOf": [
     {
       "id": 98,
-      "name": "./node_modules/core-js/library/modules/_validate-collection.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "url": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/object/set-prototype-of": [
     {
       "id": 99,
-      "name": "./node_modules/url/url.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./../../../webpack/buildin/module.js": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_validate-collection": [
     {
       "id": 100,
-      "name": "./node_modules/webpack/buildin/module.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_validate-collection.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./shallow-equals": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/url": [
     {
       "id": 101,
-      "name": "./node_modules/next/dist/lib/shallow-equals.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/url/url.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./head": [
+  "/Users/olympiawojcik/Desktop/git/webpack/buildin/module.js": [
     {
       "id": 102,
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/shallow-equals": [
+    {
+      "id": 103,
+      "name": "./node_modules/next/dist/lib/shallow-equals.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/process/browser.js": [
+    {
+      "id": 104,
+      "name": "./node_modules/process/browser.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/head": [
+    {
+      "id": 105,
       "name": "./node_modules/next/dist/lib/head.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/object/get-own-property-descriptor": [
-    {
-      "id": 106,
-      "name": "./node_modules/core-js/library/fn/object/get-own-property-descriptor.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "../../modules/es6.object.get-own-property-descriptor": [
-    {
-      "id": 107,
-      "name": "./node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "core-js/library/fn/object/define-property": [
-    {
-      "id": 108,
-      "name": "./node_modules/core-js/library/fn/object/define-property.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "../../modules/es6.object.define-property": [
-    {
-      "id": 109,
-      "name": "./node_modules/core-js/library/modules/es6.object.define-property.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "../core-js/object/get-own-property-symbols": [
-    {
-      "id": 111,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "core-js/library/fn/object/get-own-property-symbols": [
-    {
-      "id": 112,
-      "name": "./node_modules/core-js/library/fn/object/get-own-property-symbols.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "./_enum-keys": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/object/get-own-property-descriptor": [
     {
       "id": 113,
-      "name": "./node_modules/core-js/library/modules/_enum-keys.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/object/get-own-property-descriptor.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_array-includes": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.object.get-own-property-descriptor": [
     {
       "id": 114,
-      "name": "./node_modules/core-js/library/modules/_array-includes.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_to-absolute-index": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/object/define-property": [
     {
       "id": 115,
-      "name": "./node_modules/core-js/library/modules/_to-absolute-index.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/object/define-property.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-dps": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.object.define-property": [
     {
       "id": 116,
-      "name": "./node_modules/core-js/library/modules/_object-dps.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.object.define-property.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-gopn-ext": [
-    {
-      "id": 117,
-      "name": "./node_modules/core-js/library/modules/_object-gopn-ext.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "core-js/library/fn/object/keys": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/object/get-own-property-symbols": [
     {
       "id": 118,
-      "name": "./node_modules/core-js/library/fn/object/keys.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/es6.object.keys": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/object/get-own-property-symbols": [
     {
       "id": 119,
-      "name": "./node_modules/core-js/library/modules/es6.object.keys.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/object/get-own-property-symbols.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "regenerator-runtime": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_enum-keys": [
     {
       "id": 120,
-      "name": "./node_modules/regenerator-runtime/runtime-module.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_enum-keys.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./runtime": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_array-includes": [
     {
       "id": 121,
-      "name": "./node_modules/regenerator-runtime/runtime.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_array-includes.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/promise": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_to-absolute-index": [
     {
       "id": 122,
-      "name": "./node_modules/core-js/library/fn/promise.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_to-absolute-index.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_string-at": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-dps": [
     {
       "id": 123,
-      "name": "./node_modules/core-js/library/modules/_string-at.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-dps.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_iter-create": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-gopn-ext": [
     {
       "id": 124,
-      "name": "./node_modules/core-js/library/modules/_iter-create.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-gopn-ext.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./es6.array.iterator": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/object/keys": [
     {
       "id": 125,
-      "name": "./node_modules/core-js/library/modules/es6.array.iterator.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/object/keys.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_add-to-unscopables": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.object.keys": [
     {
       "id": 126,
-      "name": "./node_modules/core-js/library/modules/_add-to-unscopables.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.object.keys.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/es6.promise": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/regenerator-runtime": [
     {
       "id": 127,
-      "name": "./node_modules/core-js/library/modules/es6.promise.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/regenerator-runtime/runtime-module.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_microtask": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/runtime": [
     {
       "id": 128,
-      "name": "./node_modules/core-js/library/modules/_microtask.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/regenerator-runtime/runtime.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_user-agent": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/promise": [
     {
       "id": 129,
-      "name": "./node_modules/core-js/library/modules/_user-agent.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/promise.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/es7.promise.finally": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_string-at": [
     {
       "id": 130,
-      "name": "./node_modules/core-js/library/modules/es7.promise.finally.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_string-at.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/es7.promise.try": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_iter-create": [
     {
       "id": 131,
-      "name": "./node_modules/core-js/library/modules/es7.promise.try.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_iter-create.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./arrayWithHoles": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/es6.array.iterator": [
     {
       "id": 132,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.array.iterator.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/array/is-array": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_add-to-unscopables": [
     {
       "id": 133,
-      "name": "./node_modules/core-js/library/fn/array/is-array.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_add-to-unscopables.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/es6.array.is-array": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/es6.promise": [
     {
       "id": 134,
-      "name": "./node_modules/core-js/library/modules/es6.array.is-array.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.promise.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./iterableToArrayLimit": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_microtask": [
     {
       "id": 135,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_microtask.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/get-iterator": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_user-agent": [
     {
       "id": 136,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/get-iterator.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_user-agent.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/get-iterator": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/es7.promise.finally": [
     {
       "id": 137,
-      "name": "./node_modules/core-js/library/fn/get-iterator.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es7.promise.finally.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/core.get-iterator": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/es7.promise.try": [
     {
       "id": 138,
-      "name": "./node_modules/core-js/library/modules/core.get-iterator.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es7.promise.try.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./nonIterableRest": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/arrayWithHoles": [
     {
       "id": 139,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./cjs/react.production.min.js": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/array/is-array": [
     {
       "id": 140,
-      "name": "./node_modules/react/cjs/react.production.min.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/array/is-array.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "react-dom": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.array.is-array": [
     {
       "id": 141,
-      "name": "./node_modules/react-dom/index.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.array.is-array.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./cjs/react-dom.production.min.js": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/iterableToArrayLimit": [
     {
       "id": 142,
-      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/symbol/iterator": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/get-iterator": [
+    {
+      "id": 143,
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/get-iterator.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/get-iterator": [
+    {
+      "id": 144,
+      "name": "./node_modules/core-js/library/fn/get-iterator.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/core.get-iterator": [
+    {
+      "id": 145,
+      "name": "./node_modules/core-js/library/modules/core.get-iterator.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/nonIterableRest": [
     {
       "id": 146,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/symbol/iterator": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/cjs/react.production.min.js": [
     {
       "id": 147,
-      "name": "./node_modules/core-js/library/fn/symbol/iterator.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/symbol": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/react-dom": [
     {
       "id": 148,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/symbol.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/react-dom/index.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/symbol": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/cjs/react-dom.production.min.js": [
     {
       "id": 149,
-      "name": "./node_modules/core-js/library/fn/symbol/index.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/es7.symbol.async-iterator": [
-    {
-      "id": 150,
-      "name": "./node_modules/core-js/library/modules/es7.symbol.async-iterator.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "../../modules/es7.symbol.observable": [
-    {
-      "id": 151,
-      "name": "./node_modules/core-js/library/modules/es7.symbol.observable.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "@babel/runtime-corejs2/helpers/construct": [
-    {
-      "id": 152,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/construct.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
-    }
-  ],
-  "../core-js/reflect/construct": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/symbol/iterator": [
     {
       "id": 153,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/reflect/construct": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/symbol/iterator": [
     {
       "id": 154,
-      "name": "./node_modules/core-js/library/fn/reflect/construct.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/symbol/iterator.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/es6.reflect.construct": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/symbol": [
     {
       "id": 155,
-      "name": "./node_modules/core-js/library/modules/es6.reflect.construct.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/symbol.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_bind": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/symbol": [
     {
       "id": 156,
-      "name": "./node_modules/core-js/library/modules/_bind.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/symbol/index.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/object/set-prototype-of": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es7.symbol.async-iterator": [
     {
       "id": 157,
-      "name": "./node_modules/core-js/library/fn/object/set-prototype-of.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es7.symbol.async-iterator.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/es6.object.set-prototype-of": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es7.symbol.observable": [
     {
       "id": 158,
-      "name": "./node_modules/core-js/library/modules/es6.object.set-prototype-of.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es7.symbol.observable.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_set-proto": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/construct": [
     {
       "id": 159,
-      "name": "./node_modules/core-js/library/modules/_set-proto.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/construct.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./router": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/reflect/construct": [
     {
       "id": 160,
-      "name": "./node_modules/next/dist/lib/router/router.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/set": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/reflect/construct": [
     {
       "id": 161,
-      "name": "./node_modules/core-js/library/fn/set.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/reflect/construct.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/es6.set": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.reflect.construct": [
     {
       "id": 162,
-      "name": "./node_modules/core-js/library/modules/es6.set.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.reflect.construct.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_collection-strong": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_bind": [
     {
       "id": 163,
-      "name": "./node_modules/core-js/library/modules/_collection-strong.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_bind.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_collection": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/object/set-prototype-of": [
     {
       "id": 164,
-      "name": "./node_modules/core-js/library/modules/_collection.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/object/set-prototype-of.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_array-methods": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.object.set-prototype-of": [
     {
       "id": 165,
-      "name": "./node_modules/core-js/library/modules/_array-methods.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.object.set-prototype-of.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_array-species-create": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_set-proto": [
     {
       "id": 166,
-      "name": "./node_modules/core-js/library/modules/_array-species-create.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_set-proto.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_array-species-constructor": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/router": [
     {
       "id": 167,
-      "name": "./node_modules/core-js/library/modules/_array-species-constructor.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/next/dist/lib/router/router.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/es7.set.to-json": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/set": [
     {
       "id": 168,
-      "name": "./node_modules/core-js/library/modules/es7.set.to-json.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/set.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_collection-to-json": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/es6.set": [
     {
       "id": 169,
-      "name": "./node_modules/core-js/library/modules/_collection-to-json.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.set.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_array-from-iterable": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_collection-strong": [
     {
       "id": 170,
-      "name": "./node_modules/core-js/library/modules/_array-from-iterable.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_collection-strong.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/es7.set.of": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_collection": [
     {
       "id": 171,
-      "name": "./node_modules/core-js/library/modules/es7.set.of.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_collection.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_set-collection-of": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_array-methods": [
     {
       "id": 172,
-      "name": "./node_modules/core-js/library/modules/_set-collection-of.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_array-methods.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/es7.set.from": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_array-species-create": [
     {
       "id": 173,
-      "name": "./node_modules/core-js/library/modules/es7.set.from.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_array-species-create.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_set-collection-from": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_array-species-constructor": [
     {
       "id": 174,
-      "name": "./node_modules/core-js/library/modules/_set-collection-from.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_array-species-constructor.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "punycode": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/es7.set.to-json": [
     {
       "id": 175,
-      "name": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es7.set.to-json.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./../../../webpack/buildin/global.js": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_collection-to-json": [
     {
       "id": 176,
-      "name": "./node_modules/webpack/buildin/global.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_collection-to-json.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./util": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_array-from-iterable": [
     {
       "id": 177,
-      "name": "./node_modules/url/util.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_array-from-iterable.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "querystring": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/es7.set.of": [
     {
       "id": 178,
-      "name": "./node_modules/querystring-es3/index.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es7.set.of.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./decode": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_set-collection-of": [
     {
       "id": 179,
-      "name": "./node_modules/querystring-es3/decode.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_set-collection-of.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./encode": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/es7.set.from": [
     {
       "id": 180,
-      "name": "./node_modules/querystring-es3/encode.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es7.set.from.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../p-queue": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_set-collection-from": [
     {
       "id": 181,
-      "name": "./node_modules/next/dist/lib/p-queue.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_set-collection-from.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/object/assign": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/punycode": [
     {
       "id": 182,
-      "name": "./node_modules/core-js/library/fn/object/assign.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/es6.object.assign": [
+  "/Users/olympiawojcik/Desktop/git/webpack/buildin/global.js": [
     {
       "id": 183,
-      "name": "./node_modules/core-js/library/modules/es6.object.assign.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_object-assign": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/util": [
     {
       "id": 184,
-      "name": "./node_modules/core-js/library/modules/_object-assign.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/url/util.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./../../../process/browser.js": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/querystring": [
     {
       "id": 185,
-      "name": "./node_modules/process/browser.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/querystring-es3/index.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./with-router": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/decode": [
     {
       "id": 186,
-      "name": "./node_modules/next/dist/lib/router/with-router.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/querystring-es3/decode.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/object/get-prototype-of": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/encode": [
     {
       "id": 187,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/querystring-es3/encode.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/object/get-prototype-of": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/p-queue": [
     {
       "id": 188,
-      "name": "./node_modules/core-js/library/fn/object/get-prototype-of.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/next/dist/lib/p-queue.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/es6.object.get-prototype-of": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/object/assign": [
     {
       "id": 189,
-      "name": "./node_modules/core-js/library/modules/es6.object.get-prototype-of.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/object/assign.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/object/create": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.object.assign": [
     {
       "id": 190,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/create.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.object.assign.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/object/create": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_object-assign": [
     {
       "id": 191,
-      "name": "./node_modules/core-js/library/fn/object/create.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/_object-assign.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/es6.object.create": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/with-router": [
     {
       "id": 192,
-      "name": "./node_modules/core-js/library/modules/es6.object.create.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/next/dist/lib/router/with-router.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./factoryWithThrowingShims": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/object/get-prototype-of": [
     {
       "id": 193,
-      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./lib/ReactPropTypesSecret": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/object/get-prototype-of": [
     {
       "id": 194,
-      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/object/get-prototype-of.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "hoist-non-react-statics": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.object.get-prototype-of": [
     {
       "id": 195,
-      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/modules/es6.object.get-prototype-of.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./side-effect": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/object/create": [
     {
-      "id": 207,
-      "name": "./node_modules/next/dist/lib/side-effect.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "id": 196,
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/create.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "@babel/runtime-corejs2/helpers/toConsumableArray": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/object/create": [
     {
-      "id": 208,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "id": 197,
+      "name": "./node_modules/core-js/library/fn/object/create.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./arrayWithoutHoles": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.object.create": [
     {
-      "id": 209,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "id": 198,
+      "name": "./node_modules/core-js/library/modules/es6.object.create.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./iterableToArray": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/factoryWithThrowingShims": [
     {
-      "id": 210,
-      "name": "./node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "id": 199,
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/array/from": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/lib/ReactPropTypesSecret": [
     {
-      "id": 211,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/array/from.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "id": 200,
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/array/from": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/side-effect": [
     {
       "id": 212,
-      "name": "./node_modules/core-js/library/fn/array/from.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/next/dist/lib/side-effect.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../../modules/es6.array.from": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/@babel/runtime-corejs2/helpers/toConsumableArray": [
     {
       "id": 213,
-      "name": "./node_modules/core-js/library/modules/es6.array.from.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./_create-property": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/arrayWithoutHoles": [
     {
       "id": 214,
-      "name": "./node_modules/core-js/library/modules/_create-property.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../core-js/is-iterable": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/iterableToArray": [
     {
       "id": 215,
-      "name": "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "core-js/library/fn/is-iterable": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/array/from": [
     {
       "id": 216,
-      "name": "./node_modules/core-js/library/fn/is-iterable.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/array/from.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "../modules/core.is-iterable": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/array/from": [
     {
       "id": 217,
-      "name": "./node_modules/core-js/library/modules/core.is-iterable.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "name": "./node_modules/core-js/library/fn/array/from.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ],
-  "./nonIterableSpread": [
+  "/Users/olympiawojcik/Desktop/git/wesbos/modules/es6.array.from": [
     {
       "id": 218,
+      "name": "./node_modules/core-js/library/modules/es6.array.from.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/_create-property": [
+    {
+      "id": 219,
+      "name": "./node_modules/core-js/library/modules/_create-property.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/core-js/is-iterable": [
+    {
+      "id": 220,
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/core-js/library/fn/is-iterable": [
+    {
+      "id": 221,
+      "name": "./node_modules/core-js/library/fn/is-iterable.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/modules/core.is-iterable": [
+    {
+      "id": 222,
+      "name": "./node_modules/core-js/library/modules/core.is-iterable.js",
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
+    }
+  ],
+  "/Users/olympiawojcik/Desktop/git/wesbos/sick-fits/frontend/nonIterableSpread": [
+    {
+      "id": 223,
       "name": "./node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js",
-      "file": "static/chunks/commons.d1a8a3bd3e5a53438d62.js",
-      "publicPath": "static/chunks/commons.d1a8a3bd3e5a53438d62.js"
+      "file": "static/chunks/commons.51d5dc7fdc96bc38c559.js",
+      "publicPath": "static/chunks/commons.51d5dc7fdc96bc38c559.js"
     }
   ]
 }
