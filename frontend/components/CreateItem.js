@@ -41,6 +41,27 @@ class CreateItem extends Component {
     this.setState({ [name]: val });
   };
 
+  uploadFile = async(e) => {
+    console.log('Uploading file...')
+    console.log('files', e.target.files)
+    const files = e.target.files;
+    const data = new FormData();
+    data.append('file', files[0]) // first item the user selected
+    data.append('upload_preset', 'sickfits')
+
+    const res = await fetch(`https://api.cloudinary.com/v1_1/sick-fits-17/image/upload`, {
+      method: 'POST',
+      body: data
+    } )
+
+    const file = await res.json();
+    console.log(file)
+    this.setState({
+      image: file.secure_url,
+      largeImage: file.eager[0].secure_url
+    })
+  }
+
   render() {
         return (
         <Mutation mutation={CREATE_ITEM_MUTATION} variables={this.state}>
@@ -65,9 +86,20 @@ class CreateItem extends Component {
             >
                 <Error error={error}/>
                 <fieldset  disabled={loading} aria-busy={loading}>
+                <label htmlFor="file">
+                    Image
+                    <input
+                    type="file"
+                    id="file"
+                    name="file"
+                    onChange={this.uploadFile}
+                    placeholder="Upload an image"
+                    />
+                    {this.state.image && <img width="200" src={this.state.image} alt="Upload Preview"></img>}
+                </label>
                 <label htmlFor="title">
                     Title
-                    <textarea
+                    <input
                     type="text"
                     id="title"
                     name="title"
@@ -79,7 +111,7 @@ class CreateItem extends Component {
                 </label>
                 <label htmlFor="price">
                     Price
-                    <textarea
+                    <input
                     type="number"
                     id="price"
                     name="price"
@@ -91,7 +123,7 @@ class CreateItem extends Component {
                 </label>
                 <label htmlFor="description">
                     Description
-                    <textarea
+                    <input
                     id="description"
                     name="description"
                     onChange={this.handleChange}
